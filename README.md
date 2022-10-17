@@ -1,0 +1,2 @@
+# goPkgExample
+go pkg test
